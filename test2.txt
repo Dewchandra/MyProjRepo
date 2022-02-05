@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 7E04-C6BA
+
+ Directory of D:\New folder\GITHUB\MyProject
+
+05-02-2022  22:51    <DIR>          .
+05-02-2022  22:51    <DIR>          ..
+05-02-2022  20:55               393 index.html
+05-02-2022  20:54               374 test1.txt
+05-02-2022  22:52                 0 test2.txt
+               3 File(s)            767 bytes
+               2 Dir(s)  30,713,405,440 bytes free
